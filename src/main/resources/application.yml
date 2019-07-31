@@ -1,0 +1,6 @@
+server:
+                    #  服务使用端口号，不做配置默认8080
+                    port: 5789
+                    servlet:
+                      #  项目访问时的相对路径，可以不添加
+                      context-path: /library
